@@ -16,7 +16,7 @@ const swaggerDefinition = {
     version: "1.0.0",
     description: "Endpoints to user authtication"
   },
-  host: "localhost:3000",
+  host: "ocp-4-nodejs-git-demoproject.apps.us-west-1.starter.openshift-online.com",
   basePath: "/",
   securityDefinitions: {
     bearerAuth: {
